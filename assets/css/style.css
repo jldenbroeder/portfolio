@@ -30,6 +30,54 @@ html, body {
   background-color: rgb(249, 247, 196);
 }
 
+p {
+  font: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+h2 {
+  /*font-size: 130%;*/
+  color: #4b0000;
+}
+
+h3 {
+  /*font-size: 90%;*/
+  color: #622c2c;
+}
+
+a {
+  text-decoration: none;
+}
+
+.icone-fontawesome {
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #cccccc;
+}
+
+header {}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+header #citation {
+  justify-self: end;
+  align-self: flex-end;
+  text-align: right;
+  padding: 20px;
+  background-color: rgb(255, 255, 255, 0.75);
+  border-radius: 20px 0px 0px 0px;
+}
+
+footer {
+  padding: 10px;
+  text-align: right;
+  background-color: rgb(32, 33, 45);
+  color: #ffffff;
+}
+
 .row1 {
   display: -webkit-box;
   display: -moz-box;
@@ -37,7 +85,7 @@ html, body {
   display: -webkit-flex;
   flex-direction: row;
   -ms-flex-direction: row;
-  width: 70%;
+  width: 80%;
   max-width: 960px;
   min-width: 460px;
   background-color: rgb(255, 255, 255);
@@ -45,6 +93,10 @@ html, body {
 
 .col_30 {
   width: 33.33%;
+}
+
+.col_50 {
+  width: 50%;
 }
 
 .col_fin {
