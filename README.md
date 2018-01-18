@@ -1,29 +1,21 @@
-# Template #
+# Portofolio de Jean Luc #
 
 **Jean Luc Denbroeder**, Junior Web Developer by BeCode  
 
-## Template ##
+## Présentation des exercices ##
 
 Etat: **En cours**  
 
-Début:   
-Durée:   
+Début: 18/01/2018   
+Durée: 2 jours + maintenance   
 Lieu: BeCode, Be Central  
 
-Liens des consignes  
+Liens des consignes:  
+[Swartz-promo-3/Projects/portfolio.md](https://github.com/becodeorg/Swartz-promo-3/blob/master/Projects/portfolio.md "Lien vers le Markdown de Swartz-promo-3/Projects/portfolio.md")
+Langages: HTML5 (Flexbox), CSS3, Javascript...  
 
-Langages:  
+Réalisation:  
+Une OnePage contenant les liens des projets réalisés pour BeCode  
 
-Réalisation  
-
-<!-- 
-<http://www.google.com>
-
-[google](http://www.google.com "link to google")
-
-[![alt](url de l'image)](url du lien)
-
-[![Capture d'écran de la page Accueil](https://jldenbroeder.github.io/URL/assets/img/capt1.jpg "Capture d'écran de la page Accueil")](URL)  
--->
 
 > Rien ne sert de courir pour réussir
