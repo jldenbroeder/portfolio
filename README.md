@@ -11,7 +11,7 @@ Durée: 2 jours + maintenance
 Lieu: BeCode, Be Central  
 
 Liens des consignes:  
-[Swartz-promo-3/Projects/portfolio.md](https://github.com/becodeorg/Swartz-promo-3/blob/master/Projects/portfolio.md "Lien vers le Markdown de Swartz-promo-3/Projects/portfolio.md"{:target="_blank"})  
+[Swartz-promo-3/Projects/portfolio.md](https://github.com/becodeorg/Swartz-promo-3/blob/master/Projects/portfolio.md{:target="_blank"} "Lien vers le Markdown de Swartz-promo-3/Projects/portfolio.md")  
 Langages: HTML5 (Flexbox), CSS3, Javascript...  
 
 Réalisation:  
