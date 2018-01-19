@@ -47,6 +47,12 @@ p {
    COMMON STYLES
 -----------------------------------------*/
 
+.cadre {
+  /* border: 1px solid #3a3741; */
+  margin: 10px;
+  border-left: 3px solid #a8a8a8;
+}
+
 .section_title {
   padding-top: 90px;
   padding-bottom: 50px;
